@@ -1,3 +1,9 @@
 .liveable{
     background-color: #F4F4F4;
 }
+.paper{
+    background-image: url(../assets/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
